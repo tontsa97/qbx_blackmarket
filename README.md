@@ -1,6 +1,6 @@
 # Black Market Simulation for FiveM
 
-This repository contains the configuration and setup for a black market simulation within the FiveM framework. It includes dynamic pricing, dealer personalities, and event-driven market influences to create a rich and immersive experience.
+This repository contains the configuration and setup for a black market simulation within the FiveM framework. The script is a work in progress and is intended to be used and modified according to the user's preferences, provided that the license conditions are read and followed. The simulation includes dynamic pricing, dealer personalities, and event-driven market influences to create a rich and immersive experience.
 
 ## Features
 
@@ -39,3 +39,11 @@ Prices are influenced by factors such as time of day, police presence, and locat
 ### Events
 
 Dynamic events like police raids, gang wars, and undercover operations add excitement and unpredictability to the market. These events can affect prices, dealer behavior, and player interactions.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0. To view a copy of this license, visit [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html).
+
+## Note
+
+The script is a work in progress and has been created using various tools and methods. It is intended to be further developed and modified according to the user's preferences, provided that the license conditions are read and followed.
